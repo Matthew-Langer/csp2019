@@ -1,0 +1,30 @@
+body{
+font-family: times new roman;
+color: black;
+background-color: lightblue;
+}
+h1 {
+font-size: 1.3em;
+text-align: center;
+}
+table {
+margin-left: auto;
+margin-right: auto;
+text-align: left;
+border-collapse: collapse;
+font-size: large; 
+}
+tr {
+border: 1px solid #ffffff;
+text-align: center;
+background-color: lightgray;
+}
+th {
+text-align: center;
+color: black;
+background-color: gray;
+font-size: 20px; 
+}
+td{
+border: 1px solid #ffffff;
+}
