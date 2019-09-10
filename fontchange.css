@@ -5,8 +5,12 @@ text-align: center;
 
 p {
 font-family: skia;
-color: black;
-text-align: center;
+color: white;
+text-align: left;
+background-color: gray;
+border-style: double;
+border-width: thick;
+border-color: black;
 
 }
 
