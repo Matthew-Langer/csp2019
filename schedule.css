@@ -1,5 +1,5 @@
 h1 {
-font-size: 1.3em;
+font-size: 40px;
 text-align: center;
 font-family: impact;
 }
@@ -29,4 +29,10 @@ background-color: gray;
 }
 td{
 border: 1px solid #ffffff;
+}
+a {
+background-color: gray;
+font-family: times;
+font-size: 25px;
+color: lightgray;
 }

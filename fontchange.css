@@ -1,6 +1,7 @@
 h1 {
 font-family: impact;
 text-align: center;
+font-size: 40px;
 }
 
 p {
@@ -28,3 +29,9 @@ margin-right: auto;
 border-collapse: collapse;
 }
 
+a {
+background-color: gray;
+font-family: times;
+font-size: 25px;
+color: lightgray;
+}
